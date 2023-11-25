@@ -3,15 +3,17 @@
 
 <h1>Three forms :</h1>
 
-<ul> <ol>Login form - Bootstrap’s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.</ol>
+<h3>Login form - Bootstrap’s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.</h3>
 
-Be sure to use an appropriate type attribute on all inputs (e.g., email for email address or number for numerical information) to take advantage of newer input controls like email verification, number selection, and more.
-
-
-Login form 2 - used Horizontal format (Html,Css and Bootstrap)
+<ul> 
+ <li>Be sure to use an appropriate type attribute on all inputs (e.g., email for email address or number for numerical information) to take advantage of newer input controls like email verification, number selection, and more.</li>
 
 
-Login form 3 - Validation format (Html,Css,Bootstrap and Javascript)
+<li>Login form 2 - used Horizontal format (Html,Css and Bootstrap)</li>
+
+
+<li>Login form 3 - Validation format (Html,Css,Bootstrap and Javascript)</li>
+</ul>
 
 
 
