@@ -1,6 +1,30 @@
 # Login-form
 <h4>Html,Css and Bootstrap</h4>
 
+<h1>Three forms :</h1>
+
+<ul> <ol>Login form - Bootstrap’s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.</ol>
+
+Be sure to use an appropriate type attribute on all inputs (e.g., email for email address or number for numerical information) to take advantage of newer input controls like email verification, number selection, and more.
+
+
+Login form 2 - used Horizontal format (Html,Css and Bootstrap)
+
+
+Login form 3 - Validation format (Html,Css,Bootstrap and Javascript)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1>Html</h1> 
 <ul> 
  <li>HTML is the standard markup language for creating Web pages</li>
@@ -23,14 +47,4 @@
             
     
 
-Three forms :
 
-Login form - Bootstrap’s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.
-
-Be sure to use an appropriate type attribute on all inputs (e.g., email for email address or number for numerical information) to take advantage of newer input controls like email verification, number selection, and more.
-
-
-Login form 2 - used Horizontal format (Html,Css and Bootstrap)
-
-
-Login form 3 - Validation format (Html,Css,Bootstrap and Javascript)
