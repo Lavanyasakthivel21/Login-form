@@ -1,7 +1,7 @@
 # Login-form
 <h4>Html,Css and Bootstrap</h4>
 
-<h1>Three forms :</h1>
+<h1>Three different forms used :</h1>
 
 <h3> Bootstrap’s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.</h3>
 
@@ -16,16 +16,7 @@
 </ul>
 
 
-
-
-
-
-
-
-
-
-
-
+<hr>
 
 <h1>Html</h1> 
 <ul> 
