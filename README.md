@@ -1,7 +1,7 @@
 # Login-form
 <h4>Html,Css and Bootstrap</h4>
 
-<h1>Html</h1> <br> <li></li>
+<h1>Html</h1> 
 <ul> 
  <li>HTML is the standard markup language for creating Web pages</li>
  <li>HTML describes the structure of a Web page</li>
@@ -15,11 +15,10 @@
 <li>CSS saves a lot of work. It can control the layout of multiple web pages all at once</li>
 <li>External stylesheets are stored in CSS files</li>
 
- <h1>Bootstrap </h1><br>
-Bootstrap is a free front-end framework for faster and easier web development<br>
-Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.<br>
-Bootstrap also gives you the ability to easily create responsive designs<br>
-
+ <h1>Bootstrap </h1>
+ <li>Bootstrap is a free front-end framework for faster and easier web development</li>
+ <li>Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.</li>
+ <li>Bootstrap also gives you the ability to easily create responsive designs</li>
 
             
     
