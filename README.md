@@ -9,11 +9,11 @@
 <li>HTML elements tell the browser how to display the content </li>
 </ul>
 
-<h1>Css</h1> <br>
-CSS stands for Cascading Style Sheets<br>
-CSS describes how HTML elements are to be displayed on screen, paper, or in other media<br>
-CSS saves a lot of work. It can control the layout of multiple web pages all at once<br>
-External stylesheets are stored in CSS files<br>
+<h1>Css</h1> 
+<li>CSS stands for Cascading Style Sheets</li>
+<li>CSS describes how HTML elements are to be displayed on screen, paper, or in other media</li>
+<li>CSS saves a lot of work. It can control the layout of multiple web pages all at once</li>
+<li>External stylesheets are stored in CSS files</li>
 
  <h1>Bootstrap </h1><br>
 Bootstrap is a free front-end framework for faster and easier web development<br>
