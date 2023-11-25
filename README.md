@@ -7,14 +7,16 @@ Html - HTML stands for Hyper Text Markup Language
        HTML consists of a series of elements
        HTML elements tell the browser how to display the content
 
-Css - CSS stands for Cascading Style Sheets
-      CSS describes how HTML elements are to be displayed on screen, paper, or in other media
-      CSS saves a lot of work. It can control the layout of multiple web pages all at once
-      External stylesheets are stored in CSS files
+<h1>Css</h1> <br>
+CSS stands for Cascading Style Sheets<br>
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media<br>
+CSS saves a lot of work. It can control the layout of multiple web pages all at once<br>
+External stylesheets are stored in CSS files<br>
 
-Bootstrap - Bootstrap is a free front-end framework for faster and easier web development<br>
-            Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.
-            Bootstrap also gives you the ability to easily create responsive designs
+Bootstrap <br>
+Bootstrap is a free front-end framework for faster and easier web development<br>
+Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.<br>
+Bootstrap also gives you the ability to easily create responsive designs<br>
 
 
             
