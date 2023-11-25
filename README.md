@@ -1,12 +1,13 @@
 # Login-form
 <h4>Html,Css and Bootstrap</h4>
 
-<h1>Html</h1> <br>
-HTML stands for Hyper Text Markup Language
-HTML is the standard markup language for creating Web pages
-HTML describes the structure of a Web page
-HTML consists of a series of elements
-HTML elements tell the browser how to display the content
+<h1>Html</h1> <br> <li></li>
+<ul> 
+ <li>HTML is the standard markup language for creating Web pages</li>
+ <li>HTML describes the structure of a Web page</li>
+ <li>HTML consists of a series of elements</li>
+<li>HTML elements tell the browser how to display the content </li>
+</ul>
 
 <h1>Css</h1> <br>
 CSS stands for Cascading Style Sheets<br>
